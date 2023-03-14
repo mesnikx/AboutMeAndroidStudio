@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aboutme</string>
+    <string name="name">Rudakov Mikhail</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi my name is Mikhail.
+\n\nIntern Testing (auto, Python)
+\nEducation
+\nMoscow aviation institute 2021-2025
+\nAcademic degree: Bachelor\'s Degree
+\nDepartment: Aerospace Science-Intensive technologies and productions
+\nField of study: Digital technologies Aerospace engineering
+\nProfile: Missile complexes and cosmonautics\n\n
+\n\nAdditional education
+\nYandex Lyceum 2020
+\nYandex, Fundamentals of industrial programming
+\nYandex Lyceum 2019
+\nYandex, Fundamentals of Python Programming\n\n
+\n\nSkills
+\nPython, C++
+\nGit
+\nSQL\n\n
+\n\nPersonal qualities
+\nResponsibility
+\nIndependence
+\nAbility to work in a team
+\nQuick learning ability
+\nAiming for constant development\n\n
+\n\nProjects
+\nhttps://github.com/mesnikx/snakev1
+\nhttps://github.com/mesnikx/discordbot\n\n
+\n\nContact
+\nMoscow
+\n+7(901)-117-48-40
+\nmishelrudakov@yandex.ru
+\n@yaoxotnijk\n\n
+\n\nLanguages
+\nRussian: Native
+\nEnglish: B1(Intermediate)\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="nickname_text">nicnametext</string>
+</resources>
